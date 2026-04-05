@@ -2,12 +2,12 @@
 
 A Flutter application demonstrating the use of Firebase AI for image generation with prompt templates using the dotprompt format.
 
+![img.png](img.png)
+
 ## Features
 
 - Image style transformation using Firebase AI
 - Text-based prompt templates for anime-style image generation
-- Real-time image processing with loading indicators
-- Error handling for API calls
 
 ## Setup Instructions
 
