@@ -32,7 +32,6 @@ A Flutter application demonstrating the use of Firebase AI for image generation 
    - Navigate to **APIs & Services** → **Enabled APIs**
    - Enable:
      - Generative Language API
-     - Vertex AI API
 
 4. **Add Android App:**
    - In Firebase Console, click **Add app** → **Android**
